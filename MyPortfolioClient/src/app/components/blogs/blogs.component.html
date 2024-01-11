@@ -1,0 +1,65 @@
+
+<router-outlet></router-outlet>
+<div class="main">
+    <div class="blog">
+        <h2 class="h2">Blogs</h2>
+          <div class="row" >
+       
+            <!-- Proje 1 -->
+            @for (blog of blogs; track blog) {
+                <div class="blog-card-group" >
+                    <div class="blog-card">
+                        <div class="blog-card-banner" style="width: 30%; justify-content: center; align-items: center; margin-top: 20px;">
+                            <img src="assets/images/{{blog.imageURL}}" class="blog-banner-img" style="margin-right: 10rem;"/>
+                        </div>
+                        
+                        <div class="blog-content-wrapper" >
+
+                            <div class="tags-btn" style="display: flex; flex-wrap: wrap;">
+                                @for (tag of blog.tags; track tag;) {
+                                    <button class="blog-topic text-tiny" style="margin-right: 5px; margin-bottom: 20px;">{{tag.tagName}}</button>
+                                }
+                            </div>
+                            <h3>
+                                <a href={{blog.postURL}} class="h3" target="_blank"> {{blog.title}}</a>
+                            </h3>
+                            <p class="blog-text">
+                               {{blog.summary}}
+                            </p>
+                            <div class="wrapper-flex">
+                                <div class="profile-wrapper">
+                                  
+                                    <img src="assets/images/{{blog.imageURL}}" alt= {{blog.title}} />
+                                </div>
+                                <div class="wrapper">
+                                    
+                                    <a href="#" class="h4">{{blog.publisher}}</a>
+                                    <p class="text-sm">
+                                        <time datetime="2021-12-10">{{ blog.createDate | date: 'dd.MM.yyyy' }}</time>
+                                        <span class="separator"></span>
+                                        <ion-icon name="time-outline"></ion-icon>
+                                        <time datetime="PT2M"> {{blog.duration}} min</time>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+     </div>
+            
+        <!-- Projeleer -->
+
+
+          <!--scrool bar-->
+          <div
+          class="search-results"
+          infiniteScroll
+          [infiniteScrollDistance]="2"
+          [infiniteScrollThrottle]="500"
+          (scrolled)="onScroll()"
+        ></div>
+     <!--scrool bar-->
+    </div> 
+    

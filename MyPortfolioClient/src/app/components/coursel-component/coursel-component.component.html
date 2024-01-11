@@ -1,0 +1,14 @@
+
+<div class="div" style="background-color: rgb(185, 190, 192);">
+    <div class="container">
+        <p-carousel [value]="technologies.technologies" [numVisible]="3" [numScroll]="3" [circular]="true" [responsiveOptions]="responsiveOptions" [autoplayInterval]="3000">
+            <ng-template let-technology pTemplate="item">
+                <div class="carousel-item">
+                    <img src="assets/images/{{ technology.url }}"  class="carousel-image" />
+                    <div class="carousel-content">
+                    </div>
+                </div>
+            </ng-template>
+        </p-carousel>
+    </div>
+        </div>

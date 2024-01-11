@@ -1,0 +1,35 @@
+<footer>
+    <div class="container">
+      <div class="wrapper">
+        <a href="#" class="footer-logo">
+          <img src="./assets/images/logo.png" alt="DevBlog's Logo" class="logo-light" />
+          <img src="./assets/images/logo.png" alt="DevBlog's Logo" class="logo-dark" />
+        </a>
+
+        <p class="footer-text">
+          I'm leaving my mark in the .NET world, born from the amalgamation of my code, knowledge, and passion.
+        </p>
+      </div>
+
+      <div class="wrapper" id="contactDrive">
+        <p class="footer-title">Contacts</p>
+
+        <ul>
+          @for (contact of contacts; track contact) {
+          <li>
+            <a href="{{contact.url}}" class="footer-link"
+              target="_blank">{{contact.name}}</a>
+          </li>
+        }
+
+        </ul>
+      </div>
+
+
+    </div>
+
+    <p class="copyright">
+      &copy; Copyright 2024
+      <a href="www.linkedin.com/in/ahmetguzeller11/" target="_blank">Ahmet Fatih Güzeller</a>
+    </p>
+  </footer>

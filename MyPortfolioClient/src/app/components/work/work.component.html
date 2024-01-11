@@ -1,0 +1,72 @@
+<app-projects></app-projects>
+<router-outlet></router-outlet>
+<!-- Latest Projects -->
+<div class="main">
+  <div class="container">
+    <div class="blog">
+      <!-- Latest Projects -->
+      <h2 class="h2">Latest Projects</h2>
+      <div class="row">
+        @for (item of projects; track item) {
+          <div class="col-md-8 mb-4">
+            <div class="card">
+              <div class="card-body">
+                <h3 class="card-title">
+                  <a href="{{item.url}}" target="_blank">{{item.name}}</a>
+                </h3>
+                <p class="card-text">{{item.description}}</p>
+                <div class="d-flex align-items-center">
+                  <div class="profile-wrapper">
+                    <img src="/assets/images/81171832.png" class="img-fluid rounded-circle" style="width: 30px; height: 30px;" />
+                  </div>
+                  <div class="wrapper">
+                    <a href="#" class="h4"></a>
+                    <p class="text-sm">
+                      {{item.description}}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-4">
+            <div class="topics">
+              <div class="tags">
+                <div class="d-flex flex-wrap">
+                  @for (tag of item.technologies; track $index) {
+                    <button class="btn btn-outline-secondary mr-2 mb-2">{{tag.name}}</button>
+                  }
+                </div>
+              </div>
+            </div>
+          </div>
+        }
+      </div>
+    </div>
+    <div class="contact">
+      <h2 class="h2">Social Media</h2>
+
+      <div class="wrapper">
+        <p>
+          If you would like to learn more about my projects or skills, feel free to reach out. Don't hesitate to contact me for further information. You can connect with me through my social media accounts 
+        </p>
+
+        <ul class="social-link">
+          <li>
+            <a href="https://discord.com/channels/" target="_blank"
+              class="icon-box discord">
+              <ion-icon name="logo-discord"></ion-icon>
+            </a>
+          </li>
+          <li>
+            <a href="www.linkedin.com/in/ahmetguzeller11/" class="icon-box linkedin"
+              target="_blank">
+              <ion-icon name="logo-linkedin"></ion-icon>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+  </div>
+</div>

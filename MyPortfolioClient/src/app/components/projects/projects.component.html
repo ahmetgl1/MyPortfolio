@@ -1,0 +1,42 @@
+<router-outlet></router-outlet>
+
+          
+    <div class="main" style="width: 100%;">
+      <div class="container">
+    
+        <div class="blog" >
+    
+          <h2 class="h2">Thesis</h2>
+    
+          <div class="blog-card-group" >
+            @for (item of thesis; track item) {
+            <div class="blog-card">
+              <div class="blog-card-banner">
+                <img src="assets/images/tez.png"  class="blog-banner-img" />
+              </div>
+    
+              <div class="blog-content-wrapper">
+    
+                <button class="blog-topic text-tiny">Thesis</button>
+    
+                <h3>
+                  <a href={{item.url}} class="h3" target="_blank">{{item.name}}</a>
+                </h3>
+    
+                <p class="blog-text">
+                  {{item.description}}
+                </p>
+    
+                <div class="wrapper-flex">
+                  <div class="profile-wrapper">
+                    <img src="./assets/images/author.png" alt={{item.authorName}} />
+                  </div>
+                  <div class="wrapper">
+                    <a href="#" class="h4">{{item.authorName}}</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          }
+            </div>
+        </div>

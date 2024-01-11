@@ -1,0 +1,112 @@
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\appsettings.json
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\MyPortfolioServer.exe
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\MyPortfolioServer.deps.json
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\MyPortfolioServer.runtimeconfig.json
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\MyPortfolioServer.dll
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\MyPortfolioServer.pdb
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.csproj.AssemblyReference.cache
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.AssemblyInfoInputs.cache
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.AssemblyInfo.cs
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.csproj.CoreCompileInputs.cache
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets\msbuild.MyPortfolioServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets\msbuild.build.MyPortfolioServer.props
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyPortfolioServer.props
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyPortfolioServer.props
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\scopedcss\bundle\MyPortfolioServer.styles.css
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.csproj.CopyComplete
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.dll
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\refint\MyPortfolioServer.dll
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.pdb
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.genruntimeconfig.cache
+C:\Users\AHMET FATIH GUZELLR\Desktop\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\ref\MyPortfolioServer.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\appsettings.Development.json
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\appsettings.json
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\MyPortfolioServer.exe
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\MyPortfolioServer.deps.json
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\MyPortfolioServer.runtimeconfig.json
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\MyPortfolioServer.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\MyPortfolioServer.pdb
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.csproj.AssemblyReference.cache
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.AssemblyInfoInputs.cache
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.AssemblyInfo.cs
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.csproj.CoreCompileInputs.cache
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.MvcApplicationPartsAssemblyInfo.cs
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.MvcApplicationPartsAssemblyInfo.cache
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets\msbuild.MyPortfolioServer.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets\msbuild.build.MyPortfolioServer.props
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyPortfolioServer.props
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyPortfolioServer.props
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets.build.json
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\staticwebassets.development.json
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\scopedcss\bundle\MyPortfolioServer.styles.css
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.csproj.CopyComplete
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\refint\MyPortfolioServer.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.pdb
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\MyPortfolioServer.genruntimeconfig.cache
+G:\Projeler\MyPortfolio\MyPortfolioServer\obj\Debug\net7.0\ref\MyPortfolioServer.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Cuture.Http.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Cuture.Http.NewtonsoftJson.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Azure.Core.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Azure.Identity.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Humanizer.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\System.CodeDom.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projeler\MyPortfolio\MyPortfolioServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
